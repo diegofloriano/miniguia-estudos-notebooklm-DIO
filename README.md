@@ -1,6 +1,6 @@
 # 🧠 Meu Segundo Cérebro: Metodologia de Investimentos de Benjamin Graham
 
-Este repositório foi criado para o Desafio de Projeto "Treinando uma IA de Aprendizagem" no Bootcamp Bradesco da DIO. A ideia aqui foi usar o NotebookLM como um assistente de estudos para centralizar, cruzar e fixar os conceitos de Value Investing (Investimento de Valor) criados por Benjamin Graham.
+Este repositório foi criado para o Desafio de Projeto "Treinando uma IA de Aprendizagem" no Bootcamp da DIO. A ideia aqui foi usar o NotebookLM como um assistente de estudos para centralizar, cruzar e fixar os conceitos de Investimento de Valor criados por Benjamin Graham.
 
 ## 🎯 Contexto e Objetivos de Estudo
 O objetivo principal deste caderno temático é entender como filtrar ações de forma segura, focando em empresas reais e sólidas, e não em especulação ou momentos de euforia do mercado. 
@@ -15,14 +15,14 @@ Com este material, busquei responder a três perguntas principais:
 ## 📚 Curadoria de Fontes
 Para alimentar o NotebookLM, utilizei uma mistura de vídeos explicativos e artigos técnicos de referência:
 
-### 🎥 Conteúdo em Vídeo (Análise Visual e Prática)
+### 🎥 Conteúdo em Vídeo 
 * **Passo a Passo Empreendedor:** O Mentor de Warren Buffett - A História de Benjamin Graham - https://www.youtube.com/watch?v=9fZ3H1yHb_E
 * **José Kobori:** O Método mais Simples para Comprar Ações Baratas - Benjamin Graham - https://www.youtube.com/watch?v=ZxYEKaAeBew
 * **MindSet:** O Investidor Inteligente Benjamin Graham Audiobook - https://www.youtube.com/watch?v=fMo_xntieUo
 * **Investidor Sardinha:** 8 Lições que Eu Aprendi com o Benjamin Graham, O Investidor Inteligente! - https://www.youtube.com/watch?v=cWNqf1gifR8
 * **Arata Academy:** O Investidor Inteligente, de Benjamin Graham | Resumo Arata Academy 30 - https://www.youtube.com/watch?v=qjCpA8n7M2A
 
-### 📰 Conteúdo em Texto (Teoria e Fórmulas)
+### 📰 Conteúdo em Texto 
 * **Investopedia:** Guia sobre o método de Benjamin Graham (https://www.investopedia.com/terms/b/benjamin-method.asp)
 * **Investing.com Academy:** Destrinchando a fórmula de Benjamin Graham (https://br.investing.com/academy/analysis/formula-benjamin-graham/)
 
@@ -36,7 +36,7 @@ Aqui está o registro de como tive que ajustar minhas conversas com o NotebookLM
 * **O que a IA respondeu:** Deu uma resposta genérica dizendo que ele comprava ações baratas e era professor do Warren Buffett. Não usou os dados dos links que enviei.
 * **Minha "Cicatriz":** Percebi que perguntas abertas demais fazem a IA agir como o ChatGPT padrão, ignorando a base de dados que eu mesmo montei.
 
-### 🎯 Tentativa 2: O Prompt Preciso (A Solução)
+### 🎯 Tentativa 2: O Prompt Preciso
 * **O que perguntei:** *"Com base estritamente nos artigos da Investopedia e Investing.com que forneci, explique as variáveis da fórmula de valor intrínseco de Graham e liste quais são os 3 critérios principais que ele usava para avaliar se uma empresa é segura."*
 * **O que a IA respondeu:** Destrinchou a fórmula $V = \text{LPA} \times (8.5 + 2g)$, explicando o peso do crescimento esperado ($g$) e listou os critérios de segurança (dívida sob controle, liquidez e histórico de lucros) citando em qual das fontes encontrou a informação.
 * **Aprendizado:** Para o NotebookLM funcionar bem como um segundo cérebro, preciso amarrar a resposta dele às fontes enviadas e pedir a estrutura exata que eu quero.
