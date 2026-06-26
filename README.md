@@ -43,7 +43,7 @@ Aqui está o registro de como tive que ajustar minhas conversas com o NotebookLM
 
 ---
 
-## 📖 Miniguia de Estudo (Resultado Consolidado)
+## 📖 Miniguia de Estudo (Resultado)
 
 ### 📌 Resumos Estruturados dos Conceitos-Chave
 
